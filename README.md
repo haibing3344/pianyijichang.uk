@@ -1,7 +1,5 @@
 # Astro Starter Kit: Kubrick theme
 
-![kubrick-astro-theme](https://github.com/Angelfire/the-kubrick-astro/assets/315504/0015c42b-0612-483d-a477-9afd1bdcd4bb)
-
 ## Features
 
 - ✅ Minimal styling
@@ -30,4 +28,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [Astro documentation](https://docs.astro.build) or jump into the [Astro Discord server](https://astro.build/chat).
