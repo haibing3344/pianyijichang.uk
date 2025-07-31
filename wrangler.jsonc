@@ -1,0 +1,7 @@
+{
+  "name": "the-kubrick-astro",
+  "compatibility_date": "2025-07-31",
+  "assets": {
+    "directory": "./dist"
+  }
+}
