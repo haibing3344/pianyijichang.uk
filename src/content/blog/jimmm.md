@@ -2,12 +2,9 @@
 title: jimmm机场
 description: 最低月付8.3元。不限制本人设备数，1000M带宽，流媒体解锁、Chat GPT解锁。
 readingTime: false
-top: 0
-sticky: 5
 pubDate: 2025-05-25
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 6
 ---
 # jimmm机场
     

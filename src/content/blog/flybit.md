@@ -3,11 +3,8 @@ title: flybit机场
 description: flybit机场官网最新地址，月付12元，100G流量。28元，100G/不限时。
 readingTime: false
 pubDate: 2025-07-27
-top: 0
-sticky: 5
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 6
 ---
 # flybit机场
 flybit机场，12元 100G/月，高性价比、IEPL接口线路。提供月付/季付/年付限时和不限时套餐。购买时记得验证9折优惠码：flybit

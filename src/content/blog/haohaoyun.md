@@ -7,7 +7,6 @@ top: 0
 sticky: 5
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 6
 ---
 # 好好云机场
     

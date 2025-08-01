@@ -7,8 +7,7 @@ sticky: 5
 pubDate: 2025-07-26
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 6
-      
+
 ---
 # 宝可梦机场
 最低月付5.9元，不支持流媒体及Chatgpt，建议购买14.9每月套餐，支持流媒体解锁及ChatGPT。

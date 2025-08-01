@@ -7,7 +7,6 @@ top: 0
 sticky: 10
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 7
 ---
 # 青云梯机场
     五年老牌青云梯简介：

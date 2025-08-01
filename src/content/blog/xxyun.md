@@ -3,11 +3,8 @@ title: xxyun机场
 description: 最低月付8.88元。不限制设备数，800M带宽，流媒体解锁、Chat GPT解锁。
 readingTime: false
 pubDate: 2025-06-25
-top: 3
-sticky: 9
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 6
 ---
 # xxyun机场
     

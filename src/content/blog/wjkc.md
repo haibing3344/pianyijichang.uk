@@ -7,7 +7,7 @@ sticky: 9
 pubDate: 2025-07-25
 category: 机场推荐
 tags: ["机场推荐", "便宜机场"]
-recommend: 7
+
 ---
 # 网际快车机场
     
