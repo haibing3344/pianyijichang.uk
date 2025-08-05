@@ -52,7 +52,7 @@ export const BLOGROLL = [
 	},
 		{
 		title: '宝可梦机场',
-		url: 'https://baokemeng.bid.uk/'
+		url: 'https://baokemeng.bid/'
 	},
 		{
 		title: '小火箭客户端',
