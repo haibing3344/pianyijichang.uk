@@ -1,0 +1,68 @@
+---
+title: 狗狗加速官网地址
+description: 狗狗加速，集群负载均衡，不限速，无审计，高速专线，极低延迟。全球独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数，全平台通用。
+readingTime: false
+category: 机场推荐
+pubDate: 2025-02-25
+tags: ["机场推荐","便宜机场"]
+---
+
+# 狗狗加速官网地址
+
+最新地址：[dg1.top](https://a.suola.link/youxinyun)
+
+## 狗狗加速介绍
+
+狗狗加速，集群负载均衡，不限速，无审计，高速专线，极低延迟。全球独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数，全平台通用。
+
+狗狗加速作为第一家上线Hysteria1协议的机场，目前已经全面上线Hysteria2协议；不同于hy1，hy2全面优化了链接速度(0-RTT)，进一步降低延迟；同时使用全新的带宽控制方式；能发挥您带宽的最大潜能！
+
+提供3天1G试用，先试用购买。
+
+## 狗狗加速优惠码
+
+月付/季付套餐 85折 ➡️ 优惠码 “2411”
+
+半年付立减 20元 ➡️ 优惠码 “20”
+
+年付立减 30元 ➡️ 优惠码 “30”
+
+2年付立减 40元 ➡️ 优惠码 “40”
+
+💸 充值返现
+
+充值超过100元，自动赠送10元：
+
+充100得110，充200得220，以此类推（🎁 充值路径：左侧菜单->个人中心->充值 ，打开余额自动续费，支付无手续费）
+
+⏰ 截止至 12月12日 24时 立即下单，锁定年度最低价！c
+
+## 狗狗加速价格
+
+|套餐|标准套餐|高级套餐|豪华套餐|
+|----|----|----|----|
+|月付|¥15.8|¥20.8|¥39.8|
+|半年付|¥89.8|¥109.8|¥199.8|
+|年付|¥169.8|¥199.8|¥359.8|
+
+---------
+---------
+
+::: tip 🎉 节点推荐
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)<br>
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.521pokemon.com/register?code=56ERkkxp)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+:::
+
+::: warning  💬 交流群
+
+- 🫂 Telegram:[@jichang360](https://t.me/jichang360)
+
+:::

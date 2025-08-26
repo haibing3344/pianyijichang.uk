@@ -12,11 +12,16 @@ import { formatDate, getUniqueCategories, getUniqueTags, sortPostsDate } from "@
 import { siteConfig } from "@/site.config"
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  const posts = await getCollection("blog")
+  // 获取所有集合的文档
+  const blogPosts = await getCollection("blog")
+  const jichangPosts = await getCollection("jichang")
+  
+  // 合并所有集合的文档
+  const allPosts = [...blogPosts, ...jichangPosts]
 
-  const sortedPosts = sortPostsDate(posts)
-  const uniqueTags = getUniqueTags(posts)
-  const uniqueCategories = getUniqueCategories(posts)
+  const sortedPosts = sortPostsDate(allPosts)
+  const uniqueTags = getUniqueTags(allPosts)
+  const uniqueCategories = getUniqueCategories(allPosts)
 
   return paginate(sortedPosts, {
     props: { uniqueTags, uniqueCategories },
@@ -34,10 +39,10 @@ const { page, uniqueTags, uniqueCategories } = Astro.props
 >
   <section slot="posts">
     {
-      page.data.map(({ slug, body, data: { category, heroImage, title, pubDate, tags } }) => (
+      page.data.map(({ slug, body, data: { category, heroImage, title, pubDate, tags }, collection }) => (
         <article class="mb-10">
           <h2 class="font-bold font-trebuchet text-xl text-gray-carbon">
-            <a class="hover:text-blue-french" href={`/blog/${slug}/`}>{title}</a>
+            <a class="hover:text-blue-french" href={`/${collection}/${slug}/`}>{title}</a>
           </h2>
           <p class="font-arial text-xs text-gray-lucky">
             <time datetime={pubDate.toISOString()}>{formatDate(pubDate, 'short')}</time>

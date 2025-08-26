@@ -45,10 +45,10 @@ const { tag } = Astro.params
 <section slot="posts">
   <h2 class="font-trebuchet text-xl font-bold text-center">Archive for the '{tag}' Tag</h2>
   {
-    page.data.map(({ slug, data: { category, heroImage, title, pubDate, tags } }) => (
+    page.data.map(({ slug, data: { category, heroImage, title, pubDate, tags }, collection }) => (
       <article class="mb-10">
         <h2 class="font-bold font-trebuchet text-xl text-gray-carbon">
-          <a href={`/blog/${slug}/`}>{title}</a>
+          <a href={`/${collection}/${slug}/`}>{title}</a>
         </h2>
         <p class="font-arial text-xs text-gray-lucky">
           <time datetime={pubDate.toISOString()}>{formatDate(pubDate, 'short')}</time>
