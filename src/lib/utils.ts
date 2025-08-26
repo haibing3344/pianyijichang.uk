@@ -9,13 +9,13 @@ interface DateFormatOptions {
   day: 'numeric';
 }
 
-export function sortPostsDate(posts: CollectionEntry<"blog">[] = []) {
+export function sortPostsDate(posts: CollectionEntry<"blog" | "jichang">[] = []) {
   return posts.sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
   )
 }
 
-export function getUniqueTags(posts: CollectionEntry<"blog">[] = []) {
+export function getUniqueTags(posts: CollectionEntry<"blog" | "jichang">[] = []) {
   const uniqueTags = new Set<string>()
 
   for (const post of posts) {
@@ -25,7 +25,7 @@ export function getUniqueTags(posts: CollectionEntry<"blog">[] = []) {
   return Array.from(uniqueTags)
 }
 
-export function getUniqueCategories(posts: CollectionEntry<"blog">[] = []): string[] {
+export function getUniqueCategories(posts: CollectionEntry<"blog" | "jichang">[] = []): string[] {
   const categories = new Set(posts.map((post) => post.data.category))
 
   return Array.from(categories)
