@@ -1,7 +1,7 @@
 ---
 title: 一分机场
 description: 最低月付2元100G，6元月付1T。19.88元/1T不限时。
-pubDate: "2025-08-25"
+pubDate: "2025-07-25"
 tags: ["机场推荐", "便宜机场"]
 category: "机场推荐"
 ---
