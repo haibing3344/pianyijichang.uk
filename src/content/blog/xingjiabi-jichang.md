@@ -143,7 +143,7 @@ TNTCloud是新开的机场服务商，为了快速获得用户认可，提供了
 - 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)
 - 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月](https://love.521pokemon.com/register?code=56ERkkxp)
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月](https://a.suola.link/pokemon)
 - 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
 - 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
 :::
