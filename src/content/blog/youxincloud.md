@@ -21,23 +21,23 @@ tags: ["机场推荐", "便宜机场"]
 ## 优信云套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 休闲款套餐 | 100 GB | 2 | 200 Mbps | 15.00元/月 | [注册购买](https://a.suola.link/youxinyun) |
-| 运动款套餐 | 200 GB | 3 | 500 Mbps | 20.00元/月 | [注册购买](https://a.suola.link/youxinyun) |
-| 商务款套餐 | 400 GB | 4 | 1000 Mbps | 30.00元/月 | [注册购买](https://a.suola.link/youxinyun) |
-| 专业款套餐 | 700 GB | 6 | 2000 Mbps | 40.00元/月 | [注册购买](https://a.suola.link/youxinyun) |
-| 旗舰版套餐-大流量 | 1200 GB | 6 | 2000 Mbps | 50.00元/月 | [注册购买](https://a.suola.link/youxinyun) |
-[访问优信云官网](https://a.suola.link/youxinyun)
+| 休闲款套餐 | 100 GB | 2 | 200 Mbps | 15.00元/月 | [注册购买](https://c.jichangs.com/node1) |
+| 运动款套餐 | 200 GB | 3 | 500 Mbps | 20.00元/月 | [注册购买](https://c.jichangs.com/node1) |
+| 商务款套餐 | 400 GB | 4 | 1000 Mbps | 30.00元/月 | [注册购买](https://c.jichangs.com/node1) |
+| 专业款套餐 | 700 GB | 6 | 2000 Mbps | 40.00元/月 | [注册购买](https://c.jichangs.com/node1) |
+| 旗舰版套餐-大流量 | 1200 GB | 6 | 2000 Mbps | 50.00元/月 | [注册购买](https://c.jichangs.com/node1) |
+[访问优信云官网](https://c.jichangs.com/node1)
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)<br>
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)<br>
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)<br>
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)<br>
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)<br>
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)<br>
-- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://a.suola.link/feimao)<br>
-- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://a.suola.link/jifeng)<br>
-- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://a.suola.link/shy)
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)<br>
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://c.jichangs.com/node1)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://c.jichangs.com/erwan)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://c.jichangs.com/tnt)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://c.jichangs.com/mojie)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://c.jichangs.com/pokemon)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://c.jichangs.com/nanocloud)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://c.jichangs.com/feimao)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://c.jichangs.com/jifeng)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://c.jichangs.com/shy)
 :::
 ::: warning  💬 交流群
 - 🫂 Telegram:[@jichang360](https://t.me/jichang360)
