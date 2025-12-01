@@ -25,26 +25,26 @@
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
 |[优信云](#优信云)|[https://www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)| 无 |15.99元 100G/月|❌不支持|无|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://a.suola.link/shy)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[扬帆云](#扬帆云)|[yftg1.net](https://suola.link/0)| 无 |15.99 元100g/月|❌不支持|暂无|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
-|[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
+|[Nanocloud](#nanocloud)|[https://uodoo.bid](https://a.suola.link/nanocloud)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
 |[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
 |[网际快车](#网际快车)|[https://wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
-|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
-|[尔湾云](#尔湾云)|[https://erwan6.net](https://erwan6.net/auth/register?code=BoObCd)| 无 | 13.99元 100G/月|❌不支持|暂无|
-|[疾风云](#疾风云)|[https://jf499.pw](https://homes.tr25.cn?code=ReCm)| 无 | 12元 100G/月|❌不支持|暂无|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://a.suola.link/cyberguard)| 无 | 18元 100G/月|✔支持|暂无|
+|[尔湾云](#尔湾云)|[https://erwan6.net](https://a.suola.link/erwan)| 无 | 13.99元 100G/月|❌不支持|暂无|
+|[疾风云](#疾风云)|[https://jf499.pw](https://a.suola.link/jifeng)| 无 | 12元 100G/月|❌不支持|暂无|
 |[三番云](#三番云)|[3fan.3f66.net](https://3fan.3f66.net:?code=NuDD6seh)| 无 | 15.99元 100G/月|❌不支持|暂无|
 |[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
 |[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
-|[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
-|[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
+|[魔戒](#魔戒)|[https://mojie.uk](https://a.suola.link/mojie)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
+|[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://a.suola.link/feimao)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
@@ -54,7 +54,7 @@
 
 ### 优信云
 
-优信云官网地址：[www.youxin66.net](https://www.优信云.com/#/register?code=JRtE5uIV)
+优信云官网地址：[www.youxin66.net](https://a.suola.link/youxinyun)
 
 最便宜 15.99 每月，专线Trojan协议机场。主打节点多，100多个地区节点。老板拥有多家机场。
 
@@ -77,7 +77,7 @@
 
 ### 闪狐云
 
-闪狐云官网地址：[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+闪狐云官网地址：[flashfox.cc](https://a.suola.link/shy)
 
 邀请码：WQApz2pv
 
@@ -208,7 +208,7 @@ xxyun加速特性如下：
 
 ### cyberguard
 
-CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)
+CyberGuard官网地址：[https://cyberguard.best](https://a.suola.link/cyberguard)
 
 邀请码：XsreC0T5
 
@@ -231,7 +231,7 @@ CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#
 
 ### nanocloud
 
-NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
+NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 最便宜的订阅有1元 100G/月。
 
@@ -241,7 +241,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 尔湾云
 
-尔湾云官网地址：[https://erwan6.net](https://erwan6.net/auth/register?code=BoObCd)
+尔湾云官网地址：[https://erwan6.net](https://a.suola.link/erwan)
 
 
 - **<span style="color: red;">7折年付优惠码，购买时请输入 ss12</span>**
@@ -270,7 +270,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 疾风云
 
-疾风云官网地址：[https://jf499.pw](https://homes.tr25.cn?code=ReCm)
+疾风云官网地址：[https://jf499.pw](https://a.suola.link/jifeng)
 
 - **<span style="color: red;">年费7折优惠-jf2025: 半年9折优惠-JF888</span>**
 
@@ -327,7 +327,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 肥猫云
 
-肥猫云官网地址：[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)
+肥猫云官网地址：[https://fchb1188.fcvipaff.cc](https://a.suola.link/feimao)
 
 邀请码：X1vZd2wf
 
@@ -348,7 +348,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 魔戒
 
-魔戒官网地址：[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)
+魔戒官网地址：[https://mojie.uk](https://a.suola.link/mojie)
 
 魔戒(mojie)是一个蛮有特色的网络加速器，按量计费不限时：
 
@@ -372,7 +372,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### TNT
 
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
 
 邀请码：GtjJVgml
 
