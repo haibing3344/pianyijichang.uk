@@ -22,10 +22,10 @@ tags: ["机场推荐", "便宜机场"]
 ## xxyun机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 初级月付 | 100 GB | 无限制 | 8000M | 8.88元/月 | [注册购买](https://xxyun.de/JAKFEwKc.html) |
-| 中级月付 | 300 GB | 无限制 | 800M | 19.90元/月 | [注册购买](https://xxyun.de/JAKFEwKc.html) |
-| 高级月付 | 1000 GB | 无限制 | 800M | 39.90元/月 |  [注册购买](https://xxyun.de/JAKFEwKc.html) |
-[访问xxyun机场官网](https://xxyun.de/JAKFEwKc.html)
+| 初级月付 | 100 GB | 无限制 | 8000M | 8.88元/月 | [注册购买](https://c.jichangs.com/xxyun) |
+| 中级月付 | 300 GB | 无限制 | 800M | 19.90元/月 | [注册购买](https://c.jichangs.com/xxyun) |
+| 高级月付 | 1000 GB | 无限制 | 800M | 39.90元/月 |  [注册购买](https://c.jichangs.com/xxyun) |
+[访问xxyun机场官网](https://c.jichangs.com/xxyun)
 ---------
 ---------
 ::: tip 🎉 节点推荐

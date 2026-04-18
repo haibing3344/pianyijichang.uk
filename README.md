@@ -24,37 +24,42 @@
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
-|[优信云](#优信云)|[https://www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)| 无 |15.99元 100G/月|❌不支持|无|
+|[扬帆云](#扬帆云)|[yftg1.net](https://c.jichangs.com/yfy)| 无 |15.99 元100g/月|❌不支持|暂无|
+|[优信云](#优信云)|[https://www.youxin66.net](https://c.jichangs.com/youxinyun)| 无 |15.99元 100G/月|❌不支持|无|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://c.jichangs.com/shy)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
-|[扬帆云](#扬帆云)|[yftg1.net](https://suola.link/0)| 无 |15.99 元100g/月|❌不支持|暂无|
-|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
-|[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
+|[flybit](#flybit)|[goflybit.pages.dev](https://c.jichangs.com/flybit)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
+|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://c.jichangs.com/qyt)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
+|[银河云](#银河云)|[inv02.galaxyaff.cc](https://c.jichangs.com/galaxy)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://c.jichangs.com/nanocloud)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
-|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
-|[网际快车](#网际快车)|[https://wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
-|[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://c.jichangs.com/pokemon)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
+|[网际快车](#网际快车)|[https://wjkc66.vip](https://c.jichangs.com/wjkc)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
+|[Runway](#Runway)|[https://cloud.runwayhz.com/](https://c.jichangs.com/runway)| 无 |9.9元 100G/月|✔支持|[telegram](https://t.me/Runway_Chat)|
+|[xxyun](#xxyun)|[https://xxyun.de](https://c.jichangs.com/xxyun)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[全球云](#全球云)|[https://www.globalcloud.cc](https://c.jichangs.com/quanqiu)| 无 | 20元 120G/月|❌不支持|[telegram](https://t.me/+Z5BrgDWwzK0zMzc1)|
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://c.jichangs.com/cyberguard)| 无 | 18元 100G/月|✔支持|暂无|
 |[尔湾云](#尔湾云)|[https://erwan6.net](https://c.jichangs.com/erwan)| 无 | 13.99元 100G/月|❌不支持|暂无|
 |[疾风云](#疾风云)|[https://jf499.pw](https://c.jichangs.com/jifeng)| 无 | 12元 100G/月|❌不支持|暂无|
-|[三番云](#三番云)|[3fan.3f66.net](https://3fan.3f66.net:?code=NuDD6seh)| 无 | 15.99元 100G/月|❌不支持|暂无|
-|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
-|[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
-|[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
-|[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
+|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://c.jichangs.com/laobaixing)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
+|[好好云](#好好云)|[https://www.52hhy.com](https://c.jichangs.com/hhy)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
+|[鱼云](#cloudfisher)|[https://cloudfisher.one](https://c.jichangs.com/fisher)| 无 | 5元 148G/月（年付）|✔支持|暂无|
+|[Taishan](#taishan)|[https://jp.taishan.pro](https://c.jichangs.com/taishan)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
 |[魔戒](#魔戒)|[https://mojie.uk](https://c.jichangs.com/mojie)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
 |[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://c.jichangs.com/feimao)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://c.jichangs.com/longmao)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
+|[小旋风](#小旋风)|[https://web02.xxfeng.cc](https://c.jichangs.com/xxf)| 无 |8元 60G/月|❌不支持|暂无|
+|[白羊星](#白羊星)|[https://baiyangxing.com](https://c.jichangs.com/byx)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://c.jichangs.com/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
+|[良心云](#良心云)|[https://良心云.com](https://c.jichangs.com/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
+|[一分机场](#一分机场)|[https://一分机场.com](https://c.jichangs.com/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
+|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://c.jichangs.com/ccyz)|无|15元 150G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 
 
 ## 简介
 
 ### 优信云
 
-优信云官网地址：[www.youxin66.net](https://c.jichangs.com/node1)
+优信云官网地址：[www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)
 
 最便宜 15.99 每月，专线Trojan协议机场。主打节点多，100多个地区节点。老板拥有多家机场。
 
@@ -102,7 +107,7 @@
 
 ### flybit
 
-flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
+flybit官网地址：[goflybit.pages.dev](https://c.jichangs.com/flybit)
 
 邀请码：o7YHNoqs
 
@@ -116,7 +121,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ### 扬帆云
 
-扬帆云官网地址： [yftg1.net](https://suola.link/0)
+扬帆云官网地址： [yftg1.net](https://c.jichangs.com/yfy)
 
 年付7折优惠券：618
 
@@ -141,7 +146,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ### 青云梯
 
-青云梯官网地址：[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)
+青云梯官网地址：[ivt01.qytvipaff.cc](https://c.jichangs.com/qyt)
 
 邀请码：dTvJ05CM
 
@@ -155,7 +160,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ### 银河云
 
-银河云官网地址：[ivt02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)
+银河云官网地址：[ivt02.galaxyaff.cc](https://c.jichangs.com/galaxy)
 
 邀请码：la8LavLb
 
@@ -167,9 +172,24 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ---
 
+### Runway
+
+Runway官网地址：[https://cloud.runwayhz.com/](https://c.jichangs.com/runway)
+
+Runway机场，9.9元/月。支持 Netflix、YouTube 等流媒体解锁。
+
+- 建议季付起购，每月 200G 流量
+- 全球 10+ 个国家接入
+- 不限客户端连接数量，限速 400Mbps
+- 400Mbps 带宽保证
+- 支持 Netflix、YouTube 等流媒体解锁
+- 无视晚高峰网络压力，4K / 8K 视频秒加载
+- BGP 高速线路保障，SLA 在线率 99.99%
+
+
 ### 网际快车
 
-老头vpn官网地址：[wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)
+网际快车官网地址：[wjkc66.vip](https://c.jichangs.com/wjkc)
 
 1小时体验券：888888
 
@@ -183,7 +203,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ### xxyun
 
-xxyun官网地址：[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)
+xxyun官网地址：[https://xxyun.de](https://c.jichangs.com/xxyun)
 
 邀请码：JAKFEwKc
 
@@ -296,34 +316,6 @@ NanoCloud官网地址：[https://uodoo.bid](https://c.jichangs.com/nanocloud)
 
 ---
 
-### 三番云
-
-三番云官网地址：[https://3fan.3f66.net](https://3fan.3f66.net:?code=NuDD6seh)
-
-- **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
-
-最便宜的套餐有15元 100G/月。
-
-套餐特点
-
-- 流量：100 GB
-- 速度：300Mbps
-- 设备数：2
-
-使用说明
-
-1. 🔋 流量：100GB（自动重置）
-2. ⚡ 速度：最高 300Mbps 带宽
-3. 📱 设备数：最多 2 台设备在线
-4. 🌐 多国节点：10个国家高速接入，随心切换
-5. 🌍 全球高速稳定网络 | 流畅无忧
-6. 📽️ 全流媒体解锁：Netflix、Disney+、Hulu等
-7. 🎮 AI & 游戏优化：ChatGPT无障碍，畅玩游戏
-8. 💎 IPLC专线：低延迟，无丢包
-9. ☎️ 专属客服：在线售后，贴心保障
-10. 📌 适合日常上网、高清流媒体播放的用户
-
----
 
 ### 肥猫云
 
@@ -360,7 +352,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://c.jichangs.com/nanocloud)
 
 ### 宝可梦星云
 
-宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://c.jichangs.com/pokemon)
 
 最便宜的 6.9 元 60G/月。
 
@@ -388,9 +380,21 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 ---
 
+### 全球云
+
+全球云官网地址：[https://www.globalcloud.cc](https://c.jichangs.com/quanqiu)
+
+- 每月提供 120GB 可用流量
+- （120GB 适合日常网页访问、社交浏览、短视频与主流流媒体轻度用户）
+- BGP 多线路智能调度 + 专线级出口架构，全程不限速，节点统一 1x 计费倍率
+- Netflix / Hulu / HBO / Disney+ / DAZN 等主流流媒体完整解锁，4K 即点即播，支持 8K 资源
+- 全面支持 ChatGPT、Claude 等 AI 应用与开发工具访问
+- 采用高性能 Shadowsocks 协议，不限制同时在线设备数量
+
+
 ### 老百姓自己的机场
 
-老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)
+老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://c.jichangs.com/laobaixing)
 
 最便宜套餐 6 元 60G/月。
 
@@ -400,7 +404,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 ### 好好云
 
-好好云官网地址：[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)
+好好云官网地址：[https://www.52hhy.com](https://c.jichangs.com/hhy)
 
 最便宜套餐 10 元 100G/月。
 
@@ -412,7 +416,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 ### cloudfisher
 
-cloudfisher 官网地址：[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)
+cloudfisher 官网地址：[https://cloudfisher.one](https://c.jichangs.com/fisher)
 
 最便宜套餐15 元 300G/月。
 
@@ -422,7 +426,7 @@ cloudfisher 官网地址：[https://cloudfisher.one](https://cloudfisher.one/web
 
 ### taishan
 
-Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)
+Taishan 官网地址：[https://jp.taishan.pro](https://c.jichangs.com/taishan)
 
 
 季付¥22.00元，每月 64G 流量。年付 64元。
@@ -445,7 +449,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ### 龙猫云
 
-龙猫云官网地址：[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)
+龙猫云官网地址：[lmspeed.co](https://c.jichangs.com/longmao)
 
 邀请码：n3wi2NwS
 
@@ -463,11 +467,32 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ---
 
+### 小旋风
+
+小旋风官网地址：[web02.xxfeng.cc](https://c.jichangs.com/xxf)
+
+邀请码：80C209ADC772
+
+试用：无
+
+最便宜的订阅有8元 60G/月。年付96元。
+
+**特性如下**
+
+- 最大速率：不限速
+- 最多可支持设备数量：不限制
+- 多节点负载均衡，晚高峰不限速
+- 支持解锁ChatGPT、Gemini、Claude等AI
+- 支持Tiktok直播和短视频
+- 支持解锁Netflix、HBO MAX、Disney等流媒体
+- 海外用户也能使用
+
+---
 
 
 ### 白羊星
 
-白羊星官网地址：[baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)
+白羊星官网地址：[baiyangxing.com](https://c.jichangs.com/byx)
 
 邀请码：I6IGk5n6
 
@@ -495,3 +520,61 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 - 加入TG群组 @taoqitu_chat
 
 ---
+
+### 良心云
+
+良心云官网地址：[https://良心云.com](https://c.jichangs.com/liangxinyun)
+
+
+最低月付2元100G，6元月付1T。21元/1T不限时。
+
+- 👌 支持新疆，河南，福建，用户使用，毫无影响
+- 🌍 全球覆盖，所有节点1.0倍率，无高倍线路
+- 📱 支持同时在线20台设备使用
+- ⚡️ 高达3Gbps带宽，晚高峰观看8K 60fps不卡顿
+- 🎬 流媒体全面解锁
+- 🫷 无限制使用行为，无存储节点日志，使用更安心
+- 🔒 军工级TLS1.3加密，保护你的隐私安全
+
+---
+
+### 一分机场
+
+一分机场官网地址：[https://一分机场.com](https://c.jichangs.com/liangxinyun) 
+
+
+最低月付2元100G，6元月付1T。19.88元/1T不限时。
+
+- ⚡️提供三网高质量线路
+
+- 🚀线路带宽最高速度20000Mbps
+
+- 🔒全线路安全加密,保护隐私安全！
+
+- ⏰每月流量100GB,每30天自动重置流量！
+
+- 🎥个人使用不限设备数,解锁Netflix影视
+
+- 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
+
+---
+
+### CCYZ机场
+
+XXYZ机场官网地址：[https://ccyz.org](https://c.jichangs.com/ccyz)
+
+最便宜订阅：15元 150G/月。
+
+新客95折优惠券：`ccyz`
+
+- Lite专线套餐-100G     15元/每月      150G/月       IEPL专线
+- Pro专线套餐-200G     25元/每月       280G/月      IEPL专线
+- Max专线套餐-200G     45元/每月       550G/月      IEPL专线
+
+特性如下
+
+- BGP+IEPL专线
+- 超高性价比，节点质量高
+- 晚高峰不限速，稳定高效。
+- 流媒体完美解锁（包括Netflix , Disney+, HBO等）
+- 全天候在线，高效客服响应
